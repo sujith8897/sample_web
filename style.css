@@ -227,6 +227,7 @@ animation: animmm 5s infinite ease-out;
 
 	nav ul.show{
 		top: 50px;
+		transition: .2s;
 	}
 
 	.cont{

@@ -214,7 +214,6 @@ animation: animmm 5s infinite ease-out;
 		text-align: center;
 		margin-left: 0;
 		top:-100%;
-		transition: all 1s ease-out;
 		z-index: 2;
 	}
 	nav li{
@@ -228,7 +227,6 @@ animation: animmm 5s infinite ease-out;
 
 	nav ul.show{
 		top: 50px;
-		transition: all 1s ease-out;
 	}
 
 	.cont{
